@@ -1,2 +1,2 @@
 ## Flappy_Bird
-This is project for IA 2 of Computer Graphics
+This is the project for IA 2 of Computer Graphics
